@@ -1,5 +1,4 @@
 # C-Compiler
-# C Compiler Project
 
 ## Overview
 
